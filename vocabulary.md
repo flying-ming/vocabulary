@@ -53,6 +53,22 @@ declaim         朗诵
 reclaim         取回
 proclaim        宣布
 ```
+```
+feat            功绩
+```
+```
+spiral          螺旋(形)
+```
+```
+timid           胆小的
+intimidate      恐吓
+```
+```
+suffice         足够
+```
+```
+shove           乱挤
+```
 # 含义类似单词
 ```
 shore           海岸
@@ -65,6 +81,9 @@ abundant        大量的
 ```
 opaque          浑浊的;晦涩的
 blur            模糊的
+```
+```
+subscribe       同意
 ```
 # 难记的单词
 ```
@@ -88,4 +107,15 @@ symphony        交响乐
 rebel           反叛
 contempt        鄙视
 appraisal       评价
+benign          和蔼的;良好的
+conspiracy      阴谋
+prosperity      繁荣
+relay           接力赛
+prevalent       流行的
+penetrate       穿过
+subscribe       同意
+magistrate      地方法官
+inaugurate      就职
+endeavor        努力
+plague          瘟疫
 ```
