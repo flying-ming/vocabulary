@@ -35,7 +35,10 @@ prohibit        禁止
 shore           海岸
 coast           海岸;毫不费力的做
 ```
-
+```
+sufficient      充足的  
+abundant        大量的
+```
 
 # 难记的单词
 ```
@@ -52,4 +55,6 @@ imperative      及其重要的
 decline         下降
 intensive       密集的,强烈的
 advocate        提倡
+assembly        议会
+appropriate     合适的
 ```
