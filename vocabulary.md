@@ -5,6 +5,7 @@ impose          强加;施加影响
 propose         计划
 compose         组成;写作;创作
 interpose       插入;介于两者之间
+dispose         丢掉
 ```
 ```
 band            乐队
@@ -69,6 +70,24 @@ suffice         足够
 ```
 shove           乱挤
 ```
+```
+groom           新郎;马夫;洗刷(动物)
+```
+```
+institute       机构;建立
+aptitude        天赋
+```
+```
+aptitude        天赋
+appetite        胃口
+```
+```
+fraud           欺诈
+```
+```
+fever           发烧
+favor           喜爱
+```
 # 含义类似单词
 ```
 shore           海岸
@@ -84,6 +103,31 @@ blur            模糊的
 ```
 ```
 subscribe       同意
+```
+```
+forbid          禁止
+prohibit        禁止
+```
+```
+thrive          茁壮生长
+```
+```
+irrespective    不顾...的
+reckless        鲁莽的
+```
+```
+persistent      持续的
+
+```
+```
+controversy     争论
+```
+```
+synthetic       人造的  
+artificial      人造的
+```
+```
+disturb         打扰
 ```
 # 难记的单词
 ```
@@ -118,4 +162,5 @@ magistrate      地方法官
 inaugurate      就职
 endeavor        努力
 plague          瘟疫
+pursue          执行;追求
 ```
