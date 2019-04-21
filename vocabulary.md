@@ -1,7 +1,8 @@
 # 形似词 或 同根词
 ```
-oppose          反对
 impose          强加;施加影响
+expose          暴露
+oppose          反对
 propose         计划
 compose         组成;写作;创作
 interpose       插入;介于两者之间
@@ -83,10 +84,29 @@ appetite        胃口
 ```
 ```
 fraud           欺诈
+fright          恐惧
 ```
 ```
 fever           发烧
 favor           喜爱
+```
+```
+heroin          海洛因
+heroic          英勇的
+heroine         女英雄
+```
+```
+security        安全
+secure          坚实的
+```
+```
+extensive       广阔的
+intensive       集中的
+extension       扩展
+intension       强度;内涵
+```
+```
+
 ```
 # 含义类似单词
 ```
