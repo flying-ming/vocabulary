@@ -183,4 +183,10 @@ inaugurate      就职
 endeavor        努力
 plague          瘟疫
 pursue          执行;追求
+precedent       先例
+epidemic        流行的
+excerpt         摘录
+sarcastic       讽刺
+seam            (布)缝
+dispense        分发
 ```
