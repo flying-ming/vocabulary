@@ -12,6 +12,9 @@ dispose         丢掉
 band            乐队
 ```
 ```
+controversy     争论
+```
+```
 recipient       受体，接受人
 reciprocal      互惠的
 ```
@@ -35,6 +38,15 @@ inhibit         禁止
 exhibit         展览
 prohibit        禁止
 inhabitant      居民
+```
+```
+inform          通知
+informal        非正式的
+perform         表演
+```
+```
+journey         旅行
+journal         杂志
 ```
 ```
 diary           日记
@@ -106,7 +118,19 @@ extension       扩展
 intension       强度;内涵
 ```
 ```
-
+rival           对手
+river           河
+```
+```
+sour            酸
+soup            汤
+soul            灵魂
+```
+```
+extent          程度
+```
+```
+consult         讨论
 ```
 # 含义类似单词
 ```
@@ -149,6 +173,17 @@ artificial      人造的
 ```
 disturb         打扰
 ```
+```
+haul            拉,拖
+drag            拖,拉
+```
+```
+spur            鼓励
+
+```
+```
+consist         由...组成
+```
 # 难记的单词
 ```
 assumption      假定  
@@ -189,4 +224,5 @@ excerpt         摘录
 sarcastic       讽刺
 seam            (布)缝
 dispense        分发
+appliance       电器
 ```
