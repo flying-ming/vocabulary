@@ -1,15 +1,24 @@
 # 形似词 或 同根词
 ```
-impose          强加;施加影响
-expose          暴露
-oppose          反对
-propose         计划
-compose         组成;写作;创作
-interpose       插入;介于两者之间
-dispose         丢掉
+accuse          指责
+```
+```
+aptitude        天赋
+appetite        胃口
 ```
 ```
 band            乐队
+```
+```
+claim           声称
+exclaim         (受惊吓后)大喊
+acclaim         欢迎
+declaim         朗诵
+reclaim         取回
+proclaim        宣布
+```
+```
+consult         讨论
 ```
 ```
 controversy     争论
@@ -23,15 +32,35 @@ brim            充满;（帽）檐
 grim            严肃的;令人沮丧的
 ```
 ```
-accuse          指责
+diary           日记
+dairy           乳制品
 ```
 ```
-pillar          柱子
-pillow          枕头
+expert          专家
+except          除了什么之外
 ```
 ```
-intensive       密集的,强烈的
-intense         强烈的
+fraud           欺诈
+fright          恐惧
+```
+```
+fever           发烧
+favor           喜爱
+```
+```
+feat            功绩
+```
+```
+favor           喜欢
+flavor          味道
+```
+```
+haul            拉,拖
+```
+```
+inform          通知
+informal        非正式的
+perform         表演
 ```
 ```
 inhibit         禁止
@@ -40,35 +69,25 @@ prohibit        禁止
 inhabitant      居民
 ```
 ```
-inform          通知
-informal        非正式的
-perform         表演
+intensive       密集的,强烈的
+intense         强烈的
 ```
 ```
 journey         旅行
 journal         杂志
 ```
 ```
-diary           日记
-dairy           乳制品
-```
-```
 synthesis       合成
 synthetic       人造的  
 ```
 ```
-haul            拉,拖
+pillar          柱子
+pillow          枕头
 ```
 ```
-claim           声称
-exclaim         (受惊吓后)大喊
-acclaim         欢迎
-declaim         朗诵
-reclaim         取回
-proclaim        宣布
-```
-```
-feat            功绩
+peep=peek       偷看
+peel            削皮
+peer            凝视;贵族
 ```
 ```
 spiral          螺旋(形)
@@ -91,18 +110,6 @@ institute       机构;建立
 aptitude        天赋
 ```
 ```
-aptitude        天赋
-appetite        胃口
-```
-```
-fraud           欺诈
-fright          恐惧
-```
-```
-fever           发烧
-favor           喜爱
-```
-```
 heroin          海洛因
 heroic          英勇的
 heroine         女英雄
@@ -118,8 +125,22 @@ extension       扩展
 intension       强度;内涵
 ```
 ```
+impose          强加;施加影响
+expose          暴露
+oppose          反对
+propose         计划
+compose         组成;写作;创作
+interpose       插入;介于两者之间
+dispose         丢掉
+suppose         假定
+```
+```
 rival           对手
 river           河
+```
+```
+virtue          善行
+virtual         虚拟的
 ```
 ```
 sour            酸
@@ -127,10 +148,11 @@ soup            汤
 soul            灵魂
 ```
 ```
+spur            鼓励
+blur            污点
+```
+```
 extent          程度
-```
-```
-consult         讨论
 ```
 # 含义类似单词
 ```
@@ -182,6 +204,10 @@ spur            鼓励
 
 ```
 ```
+despite         尽管
+in spite of     尽管
+```
+```
 consist         由...组成
 ```
 # 难记的单词
@@ -225,4 +251,5 @@ sarcastic       讽刺
 seam            (布)缝
 dispense        分发
 appliance       电器
+testimony       证词
 ```
