@@ -3,8 +3,17 @@
 accuse          指责
 ```
 ```
+administer      管理
+```
+```
+allegiance      效忠
+allegation      指控
+```
+```
 aptitude        天赋
 appetite        胃口
+attitude        态度
+altitude        海拔
 ```
 ```
 band            乐队
@@ -19,9 +28,19 @@ proclaim        宣布
 ```
 ```
 consult         讨论
+consensus       共识
+constant        持续的;常数
+contract        合同;收缩
+```
+```
+cite            引用
+recite          朗诵
 ```
 ```
 controversy     争论
+```
+```
+collapse        倒塌
 ```
 ```
 recipient       受体，接受人
@@ -30,6 +49,20 @@ reciprocal      互惠的
 ```
 brim            充满;（帽）檐
 grim            严肃的;令人沮丧的
+```
+```
+elevation       海拔
+elevator        电梯
+elevate         提升
+```
+```
+excerpt         摘录
+except          例外
+exclude         不包括
+```
+```
+extend          延伸
+extent          程度
 ```
 ```
 diary           日记
@@ -90,6 +123,9 @@ peel            削皮
 peer            凝视;贵族
 ```
 ```
+plot            密谋
+```
+```
 spiral          螺旋(形)
 ```
 ```
@@ -106,6 +142,27 @@ shove           乱挤
 groom           新郎;马夫;洗刷(动物)
 ```
 ```
+receive         收到
+receipt         收据
+receiption      招待会
+recipient       受体
+```
+```
+racket          吵闹
+rocket          火箭
+```
+```
+respective      分别的
+```
+```
+perish          惨死
+
+```
+```
+presence        出席
+
+```
+```
 institute       机构;建立
 aptitude        天赋
 ```
@@ -113,6 +170,9 @@ aptitude        天赋
 heroin          海洛因
 heroic          英勇的
 heroine         女英雄
+```
+```
+mortal          不能永生的;致命的;极度的
 ```
 ```
 security        安全
@@ -135,8 +195,41 @@ dispose         丢掉
 suppose         假定
 ```
 ```
+steer           驾驶
+```
+```
+suspicion       怀疑
+```
+```
+stake           冒险
+```
+```
+prospective     潜在的
+perspective     思考角度
+```
+```
+disposal        清除
+dispose         处理掉
+disposed        愿意的
+disposition     性格
+```
+```
+trait           特点
+```
+```
+ordinary        平庸的
+```
+```
 rival           对手
 river           河
+```
+```
+resolve         决心;分离
+resolvent       使溶解的
+resoluble       可分解的
+resolution      决心
+resolute        坚决的
+
 ```
 ```
 virtue          善行
@@ -154,7 +247,19 @@ blur            污点
 ```
 extent          程度
 ```
+```
+clash           冲突
+crash           撞碎
+```
+```
+nature          大自然
+nurture         培育
+nourish         滋养
+```
 # 含义类似单词
+```
+deteriorate     恶化
+```
 ```
 shore           海岸
 coast           海岸;毫不费力的做
@@ -252,4 +357,39 @@ seam            (布)缝
 dispense        分发
 appliance       电器
 testimony       证词
+physiology      生理学
+optimistic      乐观的
+democrat        民主党人
+contract        合同;收缩
+wretched        不幸的
+seam            接缝;矿层
+lunar           月亮的
+suspicion       怀疑
+disposition     性格
+patent          专利
+tangle          纠结
+descendant      子孙
+hail            赞颂
+suspicion       怀疑
+reservation     保留意见
+litter          垃圾
+spacious        广阔的
+respective      分别的
+pope            教皇
+perspective     潜在
+inspect         调查
+contempt        鄙视
+appropriate     恰当的
+directory       目录
+precedent       先例
+legitimate      合法的
+presence        出席
+assortment      各式各样的
+opportunity     时机
+spacious        广阔的
+bargain         便宜货
+anticipate      预期
+approve         同意
+pitch           球场;投;音高
+obsolete        过时的
 ```
