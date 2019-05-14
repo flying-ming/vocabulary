@@ -392,4 +392,25 @@ anticipate      预期
 approve         同意
 pitch           球场;投;音高
 obsolete        过时的
+comprise        包括
+tuition  教授
+obsolete 过时的
+chart 图表
+flame 火焰
+broom 扫帚
+spectacular 引人注目的
+insight 洞悉
+exquisite 精美的
+remark 评论
+provided 如果
+memorial 纪念碑
+provided 如果
+declare 宣称
+provided 如果
+limb 四肢
+exquisite 精美的
+stereotype 刻板印象
+setback 挫折
+undertake 承担
+moan 呻吟
 ```
