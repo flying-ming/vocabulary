@@ -415,4 +415,18 @@ undertake 承担
 moan 呻吟
 appraisal 评价
 intuition 直觉
+crab 螃蟹
+institute 机构
+picnic 野餐
+intensive 集中的
+consist 由...组成
+exclaim 大喊
+neutral 中立的
+excessive 过多的
+despite 尽管
+rocket 火箭
+furnace 火炉
+expert 行家
+obey 服从
+constant 持续不断的
 ```
