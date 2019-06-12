@@ -413,4 +413,6 @@ stereotype 刻板印象
 setback 挫折
 undertake 承担
 moan 呻吟
+appraisal 评价
+intuition 直觉
 ```
