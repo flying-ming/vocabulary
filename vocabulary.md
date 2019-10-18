@@ -10,6 +10,10 @@ allegiance      效忠
 allegation      指控
 ```
 ```
+apartment	公寓
+department	部，局
+```
+```
 aptitude        天赋
 appetite        胃口
 attitude        态度
@@ -41,6 +45,10 @@ controversy     争论
 ```
 ```
 collapse        倒塌
+```
+```
+demonstrator	示威者
+demonstrate	示范
 ```
 ```
 recipient       受体，接受人
@@ -89,6 +97,11 @@ flavor          味道
 ```
 ```
 haul            拉,拖
+```
+```
+incidentally	顺便谈及
+incident	事故
+incidence	发生率
 ```
 ```
 inform          通知
@@ -245,6 +258,10 @@ spur            鼓励
 blur            污点
 ```
 ```
+spectator	观众
+spectacle 	眼镜；壮观的场面
+```
+```
 extent          程度
 ```
 ```
@@ -393,8 +410,8 @@ approve         同意
 pitch           球场;投;音高
 obsolete        过时的
 comprise        包括
-tuition  教授
-obsolete 过时的
+tuition  	教授
+obsolete 	过时的
 chart 图表
 flame 火焰
 broom 扫帚
@@ -413,4 +430,16 @@ stereotype 刻板印象
 setback 挫折
 undertake 承担
 moan 呻吟
+vigorous 充满活力的；果断的；强壮的
+terror 恐怖
+relay	接力比赛；传送；中继设备
+gaze	凝视
+tray	托盘
+fiction	小说；编造；幻想
+irritate 激怒
+shortly 不久；粗鲁地
+induce	引起；导致
+deceit 欺骗
+utter	说；完全的
+yield 屈服；让步
 ```
