@@ -315,6 +315,10 @@ in spite of     尽管
 ```
 consist         由...组成
 ```
+```
+colleague       同事
+college         大学
+```
 # 难记的单词
 ```
 assumption      假定  
