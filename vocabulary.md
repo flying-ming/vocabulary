@@ -256,6 +256,26 @@ nature          大自然
 nurture         培育
 nourish         滋养
 ```
+```
+recede          后退;下降
+concede         承认
+accede          答应
+secede          脱离
+```
+```
+statue          雕塑
+state           国家的；正式的
+status          状态；身份
+```
+```
+scarce          缺乏的
+scarcely        仅仅，几乎不
+```
+```
+sow             播种
+mow             收割
+sew             缝纫
+```
 # 含义类似单词
 ```
 deteriorate     恶化
@@ -318,6 +338,10 @@ consist         由...组成
 ```
 colleague       同事
 college         大学
+```
+```
+quantitative    数量的
+quality         质量的
 ```
 # 难记的单词
 ```
@@ -397,40 +421,47 @@ approve         同意
 pitch           球场;投;音高
 obsolete        过时的
 comprise        包括
-tuition  教授
-obsolete 过时的
-chart 图表
-flame 火焰
-broom 扫帚
-spectacular 引人注目的
-insight 洞悉
-exquisite 精美的
-remark 评论
-provided 如果
-memorial 纪念碑
-provided 如果
-declare 宣称
-provided 如果
-limb 四肢
-exquisite 精美的
-stereotype 刻板印象
-setback 挫折
-undertake 承担
-moan 呻吟
-appraisal 评价
-intuition 直觉
-crab 螃蟹
-institute 机构
-picnic 野餐
-intensive 集中的
-consist 由...组成
-exclaim 大喊
-neutral 中立的
-excessive 过多的
-despite 尽管
-rocket 火箭
-furnace 火炉
-expert 行家
-obey 服从
-constant 持续不断的
+tuition         教授
+obsolete        过时的
+chart           图表
+flame           火焰
+broom           扫帚
+spectacular     引人注目的
+insight         洞悉
+exquisite       精美的
+remark          评论
+provided        如果
+memorial        纪念碑
+declare         宣称
+provided        如果
+limb            四肢
+exquisite       精美的
+stereotype      刻板印象
+setback         挫折
+undertake       承担
+moan            呻吟
+appraisal       评价
+intuition       直觉
+crab            螃蟹
+institute       机构
+picnic          野餐
+intensive       集中的
+consist         由...组成
+exclaim         大喊
+neutral         中立的
+excessive       过多的
+despite         尽管
+rocket          火箭
+furnace         火炉
+expert          行家
+obey            服从
+constant        持续不断的
+gratitude       感激
+oval            椭圆形的
+stalk           悄悄接近（猎物）；（叶）柄
+feasible        可行的
+provoke         挑衅；引起
+immense         巨大的
+purpose         目的
+warrant         使显得必要(或正当)
 ```
