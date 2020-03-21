@@ -13,8 +13,8 @@ allegiance      效忠
 allegation      指控
 ```
 ```
-apartment	公寓
-department	部，局
+apartment       公寓
+department      部，局
 ```
 ```
 aptitude        天赋
@@ -50,8 +50,8 @@ controversy     争论
 collapse        倒塌
 ```
 ```
-demonstrator	示威者
-demonstrate	示范
+demonstrator    示威者
+demonstrate     示范
 ```
 ```
 recipient       受体，接受人
@@ -102,9 +102,9 @@ flavor          味道
 haul            拉,拖
 ```
 ```
-incidentally	顺便谈及
-incident	事故
-incidence	发生率
+incidentally    顺便谈及
+incident        事故
+incidence       发生率
 ```
 ```
 inform          通知
