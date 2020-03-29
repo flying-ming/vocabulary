@@ -2,7 +2,7 @@
 
 ## 形似词 或 同根词
 
-```
+```text
 accuse          指责
 ```
 ```
@@ -296,6 +296,13 @@ sow             播种
 mow             收割
 sew             缝纫
 ```
+```
+regular         有规律的
+regularity      规律
+regulate        (尤指通过规章制度)管理
+regulator       校准器调节器
+regulation      规章
+```
 
 ## 含义类似单词
 
@@ -500,4 +507,17 @@ provoke         挑衅；引起
 immense         巨大的
 purpose         目的
 warrant         使显得必要(或正当)
+comparable      类似的
+fabricate       编造
+harness         控制;利用（自然力）
+earnest         严肃地
+biology         生物学
+competent       能胜任的
+dean            院长
+furious         狂怒的
+embarrass       使尴尬
+commission      委托
+ideology        意识形态
+sentiment       态度
+comparative     相对的
 ```
