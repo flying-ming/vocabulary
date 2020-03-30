@@ -114,6 +114,9 @@ synthesis       合成
 synthetic       人造的  
 ```
 ```
+litre           升
+```
+```
 pillar          柱子
 pillow          枕头
 ```
@@ -198,6 +201,9 @@ suppose         假定
 steer           驾驶
 ```
 ```
+spite           怨恨;刁难
+```
+```
 suspicion       怀疑
 ```
 ```
@@ -276,6 +282,14 @@ sow             播种
 mow             收割
 sew             缝纫
 ```
+```
+slippery        滑溜溜的
+slippers        拖鞋
+```
+```
+feature         特征
+future          未来
+```
 # 含义类似单词
 ```
 deteriorate     恶化
@@ -342,6 +356,10 @@ college         大学
 ```
 quantitative    数量的
 quality         质量的
+```
+```
+minimize        使降到最低
+maximize        使加到最大
 ```
 # 难记的单词
 ```
@@ -464,4 +482,12 @@ provoke         挑衅；引起
 immense         巨大的
 purpose         目的
 warrant         使显得必要(或正当)
+friction        矛盾;摩擦力
+denote          象征
+blouse          女式衬衫
+negligible      微不足道的
+slum            贫民窟
+articulate      善于表达的
+mischief        淘气
+escalate        （使）恶化
 ```
